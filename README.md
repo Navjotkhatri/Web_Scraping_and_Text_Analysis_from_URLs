@@ -1,6 +1,14 @@
 # Web_Scraping_and_Text_Analysis_from_URLs
 This project focuses on web scraping and text analysis from URLs using Python libraries like pandas, requests, BeautifulSoup, and nltk. It extracts text, computes metrics (positive/negative scores, polarity, subjectivity, average sentence length, complex words), and saves the data to a CSV file.
 
+<p align="left">
+    <img src="https://img.shields.io/badge/Language-Python-blue" alt="Python" />
+    <img src="https://img.shields.io/badge/Library-pandas-yellow" alt="pandas" />
+    <img src="https://img.shields.io/badge/Library-requests-red" alt="requests" />
+    <img src="https://img.shields.io/badge/Library-BeautifulSoup-green" alt="BeautifulSoup" />
+    <img src="https://img.shields.io/badge/Library-nltk-orange" alt="nltk" />
+</p>
+
 ## Aim
 The aim of this project is to extract textual data from a list of URLs and perform comprehensive text analysis to compute various metrics such as positive and negative scores, polarity, subjectivity, average sentence length, and the percentage of complex words.
 
